@@ -1,6 +1,5 @@
-// src/extensions/components/CustomBanner.tsx
+// src/extensions/custom-banner/components/CustomBanner.tsx
 // This is a simple custom component to demonstrate UITarget injection.
-// ⚠️ [VERIFY] Update the targetId used below to match an actual available slot in v0.3.0
 
 export function CustomBanner() {
  return (
