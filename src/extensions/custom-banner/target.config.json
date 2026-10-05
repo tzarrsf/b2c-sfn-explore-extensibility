@@ -1,9 +1,3 @@
 {
- "extensions": [
-   {
-     "targetId": "product.view.after",
-     "path": "./components/CustomBanner",
-     "order": 1
-   }
- ]
+ "extensions": []
 }
