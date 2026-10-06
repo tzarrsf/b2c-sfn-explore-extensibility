@@ -1,3 +1,9 @@
 {
- "components": []
+  "components": [
+    {
+      "targetId": "sfcc.pdp.after.addToCart",
+      "path": "extensions/custom-banner/components/CustomBanner.tsx",
+      "order": 1
+    }
+  ]
 }
